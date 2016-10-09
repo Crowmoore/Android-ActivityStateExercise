@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityStateExercise</string>
+    <string name="hello">Hello World!</string>
+    <string name="entry_info">Type some text</string>
+</resources>
